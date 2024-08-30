@@ -1,8 +1,8 @@
 {
   "name": "BHXYcalculator",
   "short_name": "BHXYcalculator",
-  "id": "./",
-  "start_url": "./",
+  "id": "./BHXYcalculator/",
+  "start_url": "./BHXYcalculator/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
