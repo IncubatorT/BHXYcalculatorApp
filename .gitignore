@@ -361,6 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-# 阻止从 CRLF（回车换行符）转换为 LF（换行符）
-*.js binary
