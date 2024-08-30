@@ -61,7 +61,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-efcpKCC9l+jSkOeIazwQL9WYWN436heC6b5EmVfFyQ4=",
+      "hash": "sha256-+ly4AZtx2qhhveBiuUW\/+uwpEzVbfbhuSv4tfiQDJ34=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -69,11 +69,11 @@
       "url": "_framework\/dotnet.native.8.0.8.r9i61y29fd.js"
     },
     {
-      "hash": "sha256-wqwGZv9HypKOVR1rDQlibglCwwxQVyYfiRiGcMd1hfE=",
+      "hash": "sha256-KyL7p+nc0rxFXiXwGR01Wz0gnGOM\/w7qDAlkzjsOXn0=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-IW58sXyu3DvBXysou4z64p9e+gJpHgiOmxNGogk4jAw=",
+      "hash": "sha256-ddWuCQ0kkVZ3n+ez0E4zM7ATkOekXhGHPD2I6nj0rps=",
       "url": "_framework\/BHXYcalculator.wasm"
     },
     {
@@ -385,5 +385,5 @@
       "url": "_content\/Microsoft.FluentUI.AspNetCore.Components\/Microsoft.FluentUI.AspNetCore.Components.lib.module.js"
     }
   ],
-  "version": "lOK6p4u7"
+  "version": "AKb8AQ91"
 };
