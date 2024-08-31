@@ -1,0 +1,6 @@
+{
+  "app_version": "web_app_version",
+  "data_version": "web_data_version",
+  "game_version": "web_game_version",
+  "time": "web_time"
+}
