@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BHXYcalculator",
   "resources": {
-    "hash": "sha256-ae/uTg1ZEUm6HE1BWe9KE+cjEZLlwuqLIVpDU51QNMo=",
+    "hash": "sha256-NeRGBDz3lOxV38pPIKnFCslmsgAznMmT5iXC6y7Vvvc=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.r9i61y29fd.js": "sha256-eaDSZk6DASxvhxWBWlT+1rS9RlMW5OV0m34jaWDlMJQ="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.8.80cvijctdx.js": "sha256-0Dpj/NkVD5WqSC16ZvJLmlc38iv9+Je+umYBVOycPVU="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-KyL7p+nc0rxFXiXwGR01Wz0gnGOM/w7qDAlkzjsOXn0="
+      "dotnet.native.wasm": "sha256-Nxzdk1+JPNuRiMWhE+eVAzckNO93qFkKKs9aZIuIcJs="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BHXYcalculator.wasm": "sha256-ddWuCQ0kkVZ3n+ez0E4zM7ATkOekXhGHPD2I6nj0rps=",
+      "BHXYcalculator.wasm": "sha256-PtBIBpR4YvgMIxFskHvBFtvwSeZbJV5V1c83m0JOFDA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-LEP33/RuR5aiSbZF8ItjhDXVgGl5fGQ8LYeklGXzz6s=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CRS8W5itP+xv7J7auuuKwe4i/nvAVSDFYhUE1i3XOIM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+d+TJEu8wiH69EPEETi1s6H3fkbmFcOP9bSKT5/jzdE=",
